@@ -1,0 +1,515 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+
+Reason: 3"
+
+Reason: Input Mouse."
+
+Reason: Idle Timeout."
+
+Reason: 3"
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 15740).
+
+RTC time: ‎2021‎-‎10‎-‎31T08:43:49.967071000Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 15740).
+
+RTC time: ‎2021‎-‎10‎-‎31T08:43:49.966053200Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 15740).
+
+RTC time: ‎2021‎-‎10‎-‎31T08:43:49.965294400Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+
+Sleep Time: ‎2021‎-‎10‎-‎30T16:17:24.794177600Z
+Wake Time: ‎2021‎-‎10‎-‎31T01:42:54.823451300Z
+
+Wake Source: Unknown"
+
+Reason: 3"
+
+Reason: Lid."
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume3\Windows\System32\svchost.exe' (PID 15740).
+
+RTC time: ‎2021‎-‎10‎-‎31T08:42:55.227236700Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+
+Reason: Sleep, Hibernate, or Shutdown."
+
+Reason: 3"
+
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+
+RTC time: ‎2021‎-‎10‎-‎31T08:42:52.500000000Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+
+Sleep Reason: Hibernate from Sleep - Fixed Timeout"
+
+Reason: 3"
+
+Reason: Sleep, Hibernate, or Shutdown."
+
+Reason: 3"
+
+Reason: Lid."
+
+Reason: 3"
+
+Reason: 3"
+
+Reason: Power Button."
+
+Reason: Idle Timeout."
+
+Reason: 3"
+
+Reason: 3"
+
+Reason: Power Button."
+
+Reason: Idle Timeout."
+
+Reason: 3"
+
+Reason: 3"
+
+Reason: Input Mouse."
+
+Reason: Idle Timeout."
+
+Reason: 3"
+
+Reason: 3"
+
+Reason: Input Mouse."
+
+Reason: Idle Timeout."
+
+Reason: 3"
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1948028993-3225539157-3440777148-1849744506-410510235-485761564-2294899468). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1451493179-2683836608-1986857019-35721519-137045951-1170719439-2271252311). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1451493179-2683836608-1986857019-35721519-137045951-1170719439-2271252311). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-325075141-312602910-3260930255-266424518-1140312444-3195286659-3266461725). This security permission can be modified using the Component Services administrative tool."
+
+Reason: 3"
+
+Reason: Power Button."
+
+Reason: Idle Timeout."
+
+Reason: 3"
+
+Reason: 3"
+
+Reason: Lid."
+
+Sleep Time: ‎2021‎-‎10‎-‎30T09:23:24.590098700Z
+Wake Time: ‎2021‎-‎10‎-‎30T12:47:13.385505200Z
+
+Wake Source: Unknown"
+
+Reason: Sleep, Hibernate, or Shutdown."
+
+Reason: 3"
+
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+
+RTC time: ‎2021‎-‎10‎-‎30T19:47:08.500000000Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+
+Sleep Reason: Hibernate from Sleep - Fixed Timeout"
+
+Reason: 3"
+
+Reason: Sleep, Hibernate, or Shutdown."
+
+Reason: 3"
+
+Reason: Lid."
+
+Reason: 3"
+
+Reason: Lid."
+
+Reason: Idle Timeout."
+
+Reason: 3"
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+
+Sleep Time: ‎2021‎-‎10‎-‎29T16:29:23.361562900Z
+Wake Time: ‎2021‎-‎10‎-‎30T06:03:37.698807800Z
+
+Wake Source: Unknown"
+
+Reason: 3"
+
+Reason: Lid."
+
+Reason: Sleep, Hibernate, or Shutdown."
+
+Reason: 3"
+
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+
+RTC time: ‎2021‎-‎10‎-‎30T13:03:33.500000000Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+
+Sleep Reason: Hibernate from Sleep - Fixed Timeout"
+
+Reason: 3"
+
+Reason: Sleep, Hibernate, or Shutdown."
+
+Reason: 3"
+
+Reason: AC/DC Display Burst Suppressed."
+
+Reason: 3"
+
+Reason: AC/DC Display Burst Suppressed."
+
+Reason: 16777220."
+
+Reason: 3"
+
+Reason: 16777220."
+
+Reason: 3"
+
+Reason: Lid."
+
+Reason: 3"
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-4227013671-685324081-103557572-1283402678-2197592378-3346857851-3897139779). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-4227013671-685324081-103557572-1283402678-2197592378-3346857851-3897139779). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-2724468295-2684964756-2069314631-1465139379-900835801-2256257984-678953740). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-2724468295-2684964756-2069314631-1465139379-900835801-2256257984-678953740). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1995687824-362085866-2514685283-149278760-2209488452-781990272-717142889). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1995687824-362085866-2514685283-149278760-2209488452-781990272-717142889). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1835588639-673417695-1656755128-1771728727-2088753148-823368579-886546533). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1835588639-673417695-1656755128-1771728727-2088753148-823368579-886546533). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1998942190-4218232614-3967737614-3843149972-2724196851-1949219744-1555843430). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1998942190-4218232614-3967737614-3843149972-2724196851-1949219744-1555843430). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-3640206025-2733928824-947501437-3025788948-3416963272-1886927562-724387396). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-3640206025-2733928824-947501437-3025788948-3416963272-1886927562-724387396). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-354741997-3116092655-2973557461-3586779533-2733117709-2065735296-445755720). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-354741997-3116092655-2973557461-3586779533-2733117709-2065735296-445755720). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-361424389-546629119-722553333-3045161681-465077491-4183926500-3090398860). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-361424389-546629119-722553333-3045161681-465077491-4183926500-3090398860). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-175351116-3330962696-3491868299-2775034255-1983300976-1186237761-2548472330). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-175351116-3330962696-3491868299-2775034255-1983300976-1186237761-2548472330). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-674570315-701078616-3490544117-1291545350-1924721412-3362516453-1505916387). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-674570315-701078616-3490544117-1291545350-1924721412-3362516453-1505916387). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-2758770454-438906010-1573674977-3032401416-1437435262-1274442822-1594793724). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-2758770454-438906010-1573674977-3032401416-1437435262-1274442822-1594793724). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1154270109-1098820334-4255751264-1405029242-2510794853-3806746419-1342684944). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1154270109-1098820334-4255751264-1405029242-2510794853-3806746419-1342684944). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1693801509-3043830407-201155126-800277091-1456583390-1785315382-1480400113). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-1693801509-3043830407-201155126-800277091-1456583390-1785315382-1480400113). This security permission can be modified using the Component Services administrative tool."
+
+Service Name:  MpKslb51fd68f
+Service File Name:  C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{0AB5773D-20D8-491F-9BE1-34F3674F2BE6}\MpKslDrv.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+
+Reason: 3"
+
+Reason: Power Button."
+
+Reason: 3"
+
+Reason: AC/DC Display Burst Suppressed."
+
+Reason: 3"
+
+Reason: AC/DC Display Burst Suppressed."
+
+Reason: 16777220."
+
+Reason: 3"
+
+Reason: 16777220."
+
+Reason: 3"
+
+Reason: Lid."
+
+Reason: 3"
+
+Reason: 3"
+
+Reason: Power Button."
+
+Reason: 3"
+
+Reason: AC/DC Display Burst Suppressed."
+
+Reason: 3"
+
+Reason: AC/DC Display Burst Suppressed."
+
+Reason: 3"
+
+Reason: AC/DC Display Burst Suppressed."
+
+Reason: 3"
+
+Reason: AC/DC Display Burst Suppressed."
+
+Reason: 3"
+
+Reason: Lid."
+
+Reason: 3"
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+
+Reason: 3"
+
+Reason: Lid."
+
+Sleep Time: ‎2021‎-‎10‎-‎28T16:29:41.336388400Z
+Wake Time: ‎2021‎-‎10‎-‎28T23:44:59.327863200Z
+
+Wake Source: Unknown"
+
+Reason: Sleep, Hibernate, or Shutdown."
+
+Reason: 3"
+
+Change Reason: System time synchronized with the hardware clock.
+Process: '' (PID 4).
+
+RTC time: ‎2021‎-‎10‎-‎29T06:44:56.500000000Z
+Current time zone bias: -420
+RTC time is in UTC: false
+System time was based on RTC time: false"
+
+Sleep Reason: Hibernate from Sleep - Fixed Timeout"
+
+Reason: 3"
+
+Reason: Sleep, Hibernate, or Shutdown."
+
+Reason: 3"
+
+Reason: AC/DC Display Burst Suppressed."
+
+Reason: 3"
+
+Reason: AC/DC Display Burst Suppressed."
+
+Reason: 3"
+
+Reason: Lid."
+
+Reason: 3"
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-3254411579-3076374081-2690624381-1523814332-2685294845-238446597-1064455905). This security permission can be modified using the Component Services administrative tool."
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ and APPID 
+{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (S-1-15-2-3254411579-3076374081-2690624381-1523814332-2685294845-238446597-1064455905). This security permission can be modified using the Component Services administrative tool."
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+
+Reason: 3"
+
+Reason: Power Button."
+Windows.SecurityCenter.WscBrokerManager
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Windows.SecurityCenter.WscDataProtection
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Windows.SecurityCenter.SecurityAppBroker
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+
+Reason: Idle Timeout."
+
+Reason: 3"
+{7022A3B3-D004-4F52-AF11-E9E987FEE25F}
+ and APPID 
+{ADA41B3C-C6FD-4A08-8CC1-D6EFDE67BE7D}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{7022A3B3-D004-4F52-AF11-E9E987FEE25F}
+ and APPID 
+{ADA41B3C-C6FD-4A08-8CC1-D6EFDE67BE7D}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{7022A3B3-D004-4F52-AF11-E9E987FEE25F}
+ and APPID 
+{ADA41B3C-C6FD-4A08-8CC1-D6EFDE67BE7D}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{7022A3B3-D004-4F52-AF11-E9E987FEE25F}
+ and APPID 
+{ADA41B3C-C6FD-4A08-8CC1-D6EFDE67BE7D}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{7022A3B3-D004-4F52-AF11-E9E987FEE25F}
+ and APPID 
+{ADA41B3C-C6FD-4A08-8CC1-D6EFDE67BE7D}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{7022A3B3-D004-4F52-AF11-E9E987FEE25F}
+ and APPID 
+{ADA41B3C-C6FD-4A08-8CC1-D6EFDE67BE7D}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{7022A3B3-D004-4F52-AF11-E9E987FEE25F}
+ and APPID 
+{ADA41B3C-C6FD-4A08-8CC1-D6EFDE67BE7D}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{7022A3B3-D004-4F52-AF11-E9E987FEE25F}
+ and APPID 
+{ADA41B3C-C6FD-4A08-8CC1-D6EFDE67BE7D}
+ to the user THINKPAD-X1-WSN\DTETI FT UGM SID (S-1-5-21-1322052218-683203151-4173876033-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+
+Module Path: C:\WINDOWS\system32\IntelIHVRouter06.dll
+"
+WinSetupMon"
+"
+
